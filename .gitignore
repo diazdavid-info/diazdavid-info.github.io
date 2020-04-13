@@ -219,3 +219,9 @@ dist
 
 # TernJS port file
 .tern-port
+
+_site
+.sass-cache
+.jekyll-cache
+vendor
+
